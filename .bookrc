@@ -1,0 +1,22 @@
+{
+  "name": "The Pickwick Papers",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-pickwick-papers/master/assets",
+  "book_id": 930,
+  "book_url": "https://bubblin.io/book/the-pickwick-papers-by-charles-dickens"
+}
